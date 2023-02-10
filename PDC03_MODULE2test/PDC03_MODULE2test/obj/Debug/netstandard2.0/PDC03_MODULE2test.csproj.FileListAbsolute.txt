@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\PDC03_MODULE2test\PDC03_MODULE2test\PDC03_MODULE2test\bin\Debug\netstandard2.0\PDC03_MODULE2test.deps.json
+C:\Users\User\source\repos\PDC03_MODULE2test\PDC03_MODULE2test\PDC03_MODULE2test\bin\Debug\netstandard2.0\PDC03_MODULE2test.dll
+C:\Users\User\source\repos\PDC03_MODULE2test\PDC03_MODULE2test\PDC03_MODULE2test\bin\Debug\netstandard2.0\PDC03_MODULE2test.pdb
+C:\Users\User\source\repos\PDC03_MODULE2test\PDC03_MODULE2test\PDC03_MODULE2test\obj\Debug\netstandard2.0\PDC03_MODULE2test.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PDC03_MODULE2test\PDC03_MODULE2test\PDC03_MODULE2test\obj\Debug\netstandard2.0\PDC03_MODULE2test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PDC03_MODULE2test\PDC03_MODULE2test\PDC03_MODULE2test\obj\Debug\netstandard2.0\activity1.xaml.g.cs
+C:\Users\User\source\repos\PDC03_MODULE2test\PDC03_MODULE2test\PDC03_MODULE2test\obj\Debug\netstandard2.0\activity2.xaml.g.cs
+C:\Users\User\source\repos\PDC03_MODULE2test\PDC03_MODULE2test\PDC03_MODULE2test\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\source\repos\PDC03_MODULE2test\PDC03_MODULE2test\PDC03_MODULE2test\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\source\repos\PDC03_MODULE2test\PDC03_MODULE2test\PDC03_MODULE2test\obj\Debug\netstandard2.0\PDC03_MODULE2test.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PDC03_MODULE2test\PDC03_MODULE2test\PDC03_MODULE2test\obj\Debug\netstandard2.0\PDC03_MODULE2test.AssemblyInfo.cs
+C:\Users\User\source\repos\PDC03_MODULE2test\PDC03_MODULE2test\PDC03_MODULE2test\obj\Debug\netstandard2.0\PDC03_MODULE2test.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PDC03_MODULE2test\PDC03_MODULE2test\PDC03_MODULE2test\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\source\repos\PDC03_MODULE2test\PDC03_MODULE2test\PDC03_MODULE2test\obj\Debug\netstandard2.0\PDC03_MODULE2test.dll
+C:\Users\User\source\repos\PDC03_MODULE2test\PDC03_MODULE2test\PDC03_MODULE2test\obj\Debug\netstandard2.0\refint\PDC03_MODULE2test.dll
+C:\Users\User\source\repos\PDC03_MODULE2test\PDC03_MODULE2test\PDC03_MODULE2test\obj\Debug\netstandard2.0\PDC03_MODULE2test.pdb
+C:\Users\User\source\repos\PDC03_MODULE2test\PDC03_MODULE2test\PDC03_MODULE2test\obj\Debug\netstandard2.0\ref\PDC03_MODULE2test.dll
