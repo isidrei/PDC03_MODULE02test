@@ -5,7 +5,7 @@
              Title="Activity2">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="SWAG LEVEL%"
+            <Label Text="SWAG LEVEL% OMG"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
 
