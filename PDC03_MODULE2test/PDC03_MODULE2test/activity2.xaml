@@ -18,6 +18,9 @@
                    FontSize="Large"
                    HorizontalOptions="CenterAndExpand"
                    VerticalOptions="CenterAndExpand"/>
+            
+            <Button Text="Click to Back" Clicked="OPENMainPage">
+            </Button>
 
         </StackLayout>
     </ContentPage.Content>

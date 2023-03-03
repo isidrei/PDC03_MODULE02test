@@ -15,3 +15,6 @@ C:\Users\User\source\repos\PDC03_MODULE2test\PDC03_MODULE2test\PDC03_MODULE2test
 C:\Users\User\source\repos\PDC03_MODULE2test\PDC03_MODULE2test\PDC03_MODULE2test\obj\Debug\netstandard2.0\refint\PDC03_MODULE2test.dll
 C:\Users\User\source\repos\PDC03_MODULE2test\PDC03_MODULE2test\PDC03_MODULE2test\obj\Debug\netstandard2.0\PDC03_MODULE2test.pdb
 C:\Users\User\source\repos\PDC03_MODULE2test\PDC03_MODULE2test\PDC03_MODULE2test\obj\Debug\netstandard2.0\ref\PDC03_MODULE2test.dll
+C:\Users\User\source\repos\PDC03_MODULE2test\PDC03_MODULE2test\PDC03_MODULE2test\obj\Debug\netstandard2.0\activity3.xaml.g.cs
+C:\Users\User\source\repos\PDC03_MODULE2test\PDC03_MODULE2test\PDC03_MODULE2test\obj\Debug\netstandard2.0\activity4.xaml.g.cs
+C:\Users\User\source\repos\PDC03_MODULE2test\PDC03_MODULE2test\PDC03_MODULE2test\obj\Debug\netstandard2.0\activity5.xaml.g.cs
